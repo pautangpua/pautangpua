@@ -16,7 +16,7 @@ Hardware & IoT:
 - Sensors, Actuators, Embedded Systems projects
 
 Design & Productivity:
-- UI/UX Design: Figma
+- UI/UX Design: Figma, Illustrator, Photoshop
 - Documentation & Notes
 
 Version Control & Tools:
