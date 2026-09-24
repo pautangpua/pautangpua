@@ -35,7 +35,7 @@ Email: pautangpua2004@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/pau-t-a865823b0/
 
-Portfolio: poweranger24.com
+Portfolio: https://terminal-portfolio-eta-gules.vercel.app/
 ### 
 <!--
 **pautangpua/pautangpua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
